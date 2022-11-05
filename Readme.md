@@ -1,3 +1,5 @@
+npm init -y : para criar um projeto node
+
 typescript - npm i typescript -D
 tsx - para o node compilar automaticamente o typescript (npm i tsx -D)
 fastify - como o Express, um servidor javascript (npm i fastify)
